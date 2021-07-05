@@ -1,0 +1,14 @@
+---
+title: "invest method"
+author: "gebe"
+date: "01/09/2020"
+output: html_document
+---
+
+## **Investment Method**
+
+1. **Deposits** - A deposit is a financial term that means money held at a bank. A deposit is a transaction involving a transfer of money to another party for safekeeping. However, a deposit can refer to a portion of money used as security or collateral for the delivery of a good. 
+
+2. **Stocks** - A stock (also known as equity) is a security that represents the ownership of a fraction of a corporation. This entitles the owner of the stock to a proportion of the corporation's assets and profits equal to how much stock they own. Units of stock are called "shares."
+
+3. **Gold** - Gold is often looked at as a store of value, but it's also a highly speculative asset linked to currencies and interest rates.Historically, gold has served as a hedge against declining U.S dollar and rising inflation scenarios. With rising inflation, gold typically appreciates. When investors realize that their money is losing value, they will start positioning their investments in a hard asset that has traditionally maintained its value.

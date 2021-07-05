@@ -1,0 +1,17 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+# **WHY?**
+
+**Fresh Graduate Financial Planner** is a tool for all fresh graduates out there, from age 17 to age 30. This is made for all of you, young people to plan for your future.
+
+As a fresh graduate, we would have a dream to buy a house and marry someday. This app is the tool for you to plan your financial for marriage and make a down payment to buy a house which is 10% from total house price according to the regulation of "Bank Indonesia" in 2019. This app is contain various method of investment and the project cash in the time you will getting married or making a down payment of a house.
+
+Last but not least, Thank you for using this tools. Hope it will give you some insight for your financial plan after graduating.
+
+Critics and feedbacks can be send to custser@fgfp.com
+
